@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Pretty calculator
+##Made by Wellington Reis
+This is a test project, for study about react.
+Soon I made more projects using react
+
+
+
+First step is you run `npm install` on project directory.
+
 
 ## Available Scripts
 
