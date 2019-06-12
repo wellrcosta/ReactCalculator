@@ -1,5 +1,5 @@
-#Pretty calculator
-##Made by Wellington Reis
+# Pretty calculator
+## Made by Wellington Reis
 This is a test project, for study about react.
 Soon I made more projects using react
 
